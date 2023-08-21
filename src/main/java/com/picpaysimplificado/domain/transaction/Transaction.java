@@ -35,5 +35,4 @@ public class Transaction {
 
     private LocalDateTime time_stamp;
 
-
 }
